@@ -3,7 +3,7 @@
 # Hey there, I'm nstyyy 👋
 
 ## About Me
-- 🔭 I’m currently working on [Greed-Island], the best free acess server on FiveM 😁
+- 🔭 I’m currently working on [Greed-Island], the best free access server on FiveM 😁
 - 🌱 I’m currently learning [Web development / Cybersecurity]
 - 📫 How to reach me : [nsty47r#8644]
 - 🎮 Playing Valorant
