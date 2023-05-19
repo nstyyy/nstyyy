@@ -8,12 +8,13 @@
 
 ---
 
-## Skills
+## Languages / Tools
 
-- Programming Languages: [List of Programming Languages]
-- Technologies: [List of Technologies]
-- Tools: [List of Tools]
-- Other Skills: [Other Relevant Skills]
+<div align="center">
+    ![Langage 1](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png)
+    ![Langage 2](chemin/vers/image2.png)
+    ![Langage 3](chemin/vers/image3.png)
+</div>
 
 ## Projects
 
