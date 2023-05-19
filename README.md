@@ -10,11 +10,7 @@
 
 ## Languages / Tools
 
-<div align="center">
-    ![Langage 1]("https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png")
-    ![Langage 2](chemin/vers/image2.png)
-    ![Langage 3](chemin/vers/image3.png)
-</div>
+<img border="0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
 
 ## Projects
 
