@@ -1,10 +1,8 @@
-# Hey there! 👋
-
-I'm [Your Name], a passionate [Your Profession] from [Your City, Country]. Welcome to my GitHub profile!
+# Hey there, I'm nstyyy 👋
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project]
+- 🔭 I’m currently working on [GreedIsland]
 - 🌱 I’m currently learning [Technologies or Skills]
 - 👯 I’m looking to collaborate on [Open Source Projects]
 - 📫 How to reach me: [Your Email Address]
