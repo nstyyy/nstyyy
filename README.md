@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning [Web development / Cybersecurity]
 - 📫 How to reach me : [nsty47r#8644]
 - 🎮 Playing Valorant
-- 🎤 MAES & WERENOI : Best Artists
+- 🎤 MAES & WERENOI : [Best Artists]
 
 ---------
 
