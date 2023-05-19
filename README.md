@@ -2,11 +2,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [GreedIsland]
-- 🌱 I’m currently learning [Technologies or Skills]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 I’m currently working on [Greed-Island], the best free acess server on FiveM 😁
+- 🌱 I’m currently learning [Web development]
+- 📫 How to reach me: [nsty47r#8644]
+
+---
 
 ## Skills
 
