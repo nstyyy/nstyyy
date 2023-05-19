@@ -3,8 +3,9 @@
 ## About Me
 
 - 🔭 I’m currently working on [Greed-Island], the best free acess server on FiveM 😁
-- 🌱 I’m currently learning [Web development]
-- 📫 How to reach me: [nsty47r#8644]
+- 🌱 I’m currently learning [Web development / Cybersecurity]
+- 📫 How to reach me : [nsty47r#8644]
+- 🎮 Playing Valorant
 
 ---
 
