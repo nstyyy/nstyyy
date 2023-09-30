@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Greed-Island], the best free access server on FiveM 😁
 - 🌱 I’m currently learning [Web development / Cybersecurity]
 - 📫 How to reach me : [nsty47r#8644]
-- 🎮 Playing Valorant
+- 🎮 Playing Fortnite
 - 🎤 MAES & WERENOI : [Best Artists]
 
 ---------
