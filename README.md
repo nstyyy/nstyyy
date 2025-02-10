@@ -1,9 +1,5 @@
 # 👋 Salut, je suis Natanael Burgaud
 
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1085644503744004237/1338490206483120128/image.png?ex=67ab45a5&is=67a9f425&hm=e1dd9be970d262b6bb666a5221d6563de1196f423309e9afdd937d8a9be7bdfd&" width="250" height="250" style="border-radius: 50%; margin-right: 15px;" />
-</div>
-
 ## 🎓 À propos de moi
 
 Je m'appelle **Natanael Burgaud**, j'ai 19 ans et je suis étudiant en **Bac +2 - Bachelor Développeur** à l'**IPI** de Toulouse. Passionné par le développement web et les technologies modernes, j'aspire à devenir un développeur expert. 
