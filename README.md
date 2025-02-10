@@ -11,25 +11,23 @@ Je m'appelle **Natanael Burgaud**, j'ai 19 ans et je suis étudiant en **Bac +2 
 
 ## 🛠️ Mes compétences
 
-## 🛠️ Mes compétences
-
 ### Langages et outils
 
-- ![HTML5](https://img.icons8.com/ios/452/html-5.png) **HTML**
-- ![CSS3](https://img.icons8.com/ios/452/css3.png) **CSS**
-- ![Tailwind CSS](https://img.icons8.com/ios/452/tailwindcss.png) **Tailwind CSS**
-- ![JavaScript](https://img.icons8.com/ios/452/javascript.png) **JavaScript**
-- ![Node.js](https://img.icons8.com/ios/452/nodejs.png) **Node.js**
-- ![Express](https://img.icons8.com/ios/452/express.png) **Express**
-- ![React](https://img.icons8.com/ios/452/react.png) **ReactJS**
-- ![Angular](https://img.icons8.com/ios/452/angularjs.png) **Angular**
-- ![Symfony](https://img.icons8.com/ios/452/symfony.png) **Symfony**
-- ![PHP](https://img.icons8.com/ios/452/php.png) **PHP**
-- ![Java](https://img.icons8.com/ios/452/java.png) **Java**
-- ![Python](https://img.icons8.com/ios/452/python.png) **Python**
-- ![Git](https://img.icons8.com/ios/452/git.png) **Git**
-- ![Github](https://img.icons8.com/ios/452/github.png) **Github**
-- ![MySQL](https://img.icons8.com/ios/452/mysql.png) **MySQL**
+![HTML5](https://img.icons8.com/ios/30/html-5.png)
+![CSS3](https://img.icons8.com/ios/30/css3.png)
+![Tailwind CSS](https://img.icons8.com/ios/30/tailwindcss.png)
+![JavaScript](https://img.icons8.com/ios/30/javascript.png)
+![Node.js](https://img.icons8.com/ios/30/nodejs.png)
+![Express](https://img.icons8.com/ios/30/express.png)
+![React](https://img.icons8.com/ios/30/react.png)
+![Angular](https://img.icons8.com/ios/30/angularjs.png)
+![Symfony](https://img.icons8.com/ios/30/symfony.png)
+![PHP](https://img.icons8.com/ios/30/php.png)
+![Java](https://img.icons8.com/ios/30/java.png)
+![Python](https://img.icons8.com/ios/30/python.png)
+![Git](https://img.icons8.com/ios/30/git.png)
+![Github](https://img.icons8.com/ios/30/github.png)
+![MySQL](https://img.icons8.com/ios/30/mysql.png)
 
 ## 📞 Contact
 
