@@ -34,7 +34,7 @@ Je m'appelle **Natanael Burgaud**, j'ai 19 ans et je suis étudiant en **Bac +2 
 
 ## 📊 GitHub Stats
 
-![Natanael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanael-burgaud&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Natanael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nstyyyd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📞 Contact
 
