@@ -9,7 +9,7 @@
 Je m'appelle **Natanael Burgaud**, j'ai 19 ans et je suis étudiant en **Bac +2 - Bachelor Développeur** à l'**IPI** de Toulouse. Passionné par le développement web et les technologies modernes, j'aspire à devenir un développeur expert. 
 
 🔍 J'ai créé mon **portfolio** pour partager mes projets et mon parcours :  
-[Mon Portfolio](https://portfolio-umber-six-41.vercel.app/)
+[➡️ Mon Portfolio](https://portfolio-umber-six-41.vercel.app/)
 
 ## 🛠️ Mes compétences
 
