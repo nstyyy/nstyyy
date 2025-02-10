@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Natanael Burgaud
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1085644503744004237/1338490206483120128/image.png?ex=67ab45a5&is=67a9f425&hm=e1dd9be970d262b6bb666a5221d6563de1196f423309e9afdd937d8a9be7bdfd&" width="100" height="100" style="border-radius: 50%; margin-right: 15px;" />
+  <img src="https://cdn.discordapp.com/attachments/1085644503744004237/1338490206483120128/image.png?ex=67ab45a5&is=67a9f425&hm=e1dd9be970d262b6bb666a5221d6563de1196f423309e9afdd937d8a9be7bdfd&" width="120" height="120" style="border-radius: 50%; margin-right: 15px;" />
   <p style="margin: 0;">BRRRRRRRRR</p>
 </div>
 
