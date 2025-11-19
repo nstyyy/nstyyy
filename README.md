@@ -18,9 +18,9 @@ Je m'appelle **Natanael Burgaud**, j'ai 20 ans et je suis étudiant en **Bac +3 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 
-  <!-- Tibco EBX (logo TIBCO) -->
+  <!-- Tibco EBX -->
   <a href="https://www.tibco.com/products/ebx" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/tibco-logo-4F70184EB4-seeklogo.com.svg" alt="tibco ebx" width="40" height="40"/>
+    <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8839ea172298e2238bbe78dd9be659d0/tibco-ebx.png" alt="tibco ebx" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
