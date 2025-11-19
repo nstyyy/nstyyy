@@ -2,17 +2,17 @@
 
 ## 🎓 À propos de moi
 
-Je m'appelle **Natanael Burgaud**, j'ai 19 ans et je suis étudiant en **Bac +2 - Bachelor Développeur** à l'**IPI** de Toulouse. Passionné par le développement web et les technologies modernes, j'aspire à devenir un développeur expert. 
+Je m'appelle **Natanael Burgaud**, j'ai 20 ans et je suis étudiant en **Bac +3 - Bachelor Développeur** à l'**IPI** de Toulouse. Passionné par le développement web et les technologies modernes, j'aspire à devenir un développeur expert. 
 
 🔍 J'ai créé mon **portfolio** pour partager mes projets et mon parcours :  
-[➡️ Mon Portfolio](https://portfolio-umber-six-41.vercel.app/)
+[➡️ Mon Portfolio (SOON)](LIEN-A-METTRE)
 
 ## 🛠️ Mes compétences
 
 ### Langages et outils
 
 <p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="javaa" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
