@@ -7,13 +7,9 @@ Je m'appelle **Natanael Burgaud**, j'ai 20 ans et je suis étudiant en **Bac +3 
 🔍 Je t'invite à regarder mon portfolio pour voir mes compétences et mes projets :  
 [➡️ Mon Portfolio](https://nstyyy.github.io/)
 
-## 📊 GitHub Stats
-
-![Natanael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nstyyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 📞 Contact
 
-### Si tu souhaites échanger avec moi, voici comment me joindre :
+### Voici comment me contacter :
 
 - 📧 **Email** : [n.burgaud.pro@gmail.com](mailto:n.burgaud.pro@gmail.com)
 - 💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/natanael-burgaud/)
