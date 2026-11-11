@@ -2,9 +2,8 @@
 
 ## 🎓 À propos de moi
 
-Je m'appelle **Natanael Burgaud**, j'ai 20 ans et je suis étudiant en **Bac +3 - Bachelor Développeur** à l'**IPI** de Toulouse. Passionné par le développement web et les technologies modernes, j'aspire à devenir un développeur expert. 
+Je m'appelle **Natanael Burgaud**, 21 ans et étudiant en Master 1 à Igensia Tech à Blagnac en préparation de mon diplôme d'Expert en développement logiciels.
 
-🔍 Je t'invite à regarder mon portfolio pour voir mes compétences et mes projets :  
 [➡️ Mon Portfolio](https://nstyyy.github.io/)
 
 ## 📞 Contact
